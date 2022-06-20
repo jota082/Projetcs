@@ -1,4 +1,4 @@
-## Nome: Jônathas Nobre Moura Mat: 538799
+## Nome: Jônathas Nobre Moura 
 
 import turtle
 import random
